@@ -17,7 +17,13 @@ padding-top: 30px;
     color: white;
 }
 
-
+.my-class {
+  margin: 30px;
+  border: 2px solid red;
+  padding: 4px;
+  background-color: orange;
+  font-size: 2em ;
+}
 
 body {
   background-image: url(https://images.unsplash.com/photo-1527905876394-1e5115891cba?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=03e900ad7822e824a78afd2c706ff241&auto=format&fit=crop&w=1534&q=80);
@@ -29,11 +35,17 @@ font-family: Georgia, serif;
 .nap {
   width: 300px ;
   height: 275px ;
+ float: right ;
 }
 
 .lala {
   width: 300px ;
   height: 275px ;
+}
+
+.column {
+  width: 300px;
+  float: left;
 }
 
 a {
