@@ -1,20 +1,20 @@
-#blazers {
+#jordan {
   display: flex;
-    margin: 0 auto;
-    padding-bottom: 15px;
-padding-top: 30px;
-    width: 50em;
-     height: 30em;
+  margin: 0 auto;
+  padding-bottom: 15px;
+  padding-top: 30px;
+  width: 81em;
+  height: 30em;
 }
 
 #arashi {
   position:absolute;
-    top: 17%;
-    left: 50%;
-    transform: translate(-50%,-50%);
-    font-size: 5em;
-    font-family: Georgia, serif;
-    color: white;
+  top: 25%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  font-size: 5em;
+  font-family: Georgia, serif;
+  color: white;
 }
 
 .my-class {
@@ -26,16 +26,16 @@ padding-top: 30px;
 }
 
 body {
-  background-image: url(https://images.unsplash.com/photo-1527905876394-1e5115891cba?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=03e900ad7822e824a78afd2c706ff241&auto=format&fit=crop&w=1534&q=80);
+  background-image: url(https://images.unsplash.com/photo-1539208053872-3abdcead5fe1?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=79147e09a978cee6c55280c3e05237bf&auto=format&fit=crop&w=2801&q=80);
 background-repeat: no-repeat;
 font-family: Georgia, serif;
-    color: black;
+  color: black;
 }
 
 .nap {
   width: 300px ;
   height: 275px ;
- float: right ;
+  float: right ;
 }
 
 .lala {
@@ -49,5 +49,5 @@ font-family: Georgia, serif;
 }
 
 a {
-  color: white;
+  color: blue;
 }
