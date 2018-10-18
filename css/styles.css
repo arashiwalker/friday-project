@@ -36,6 +36,11 @@ p {
   color: orange;
 }
 
+.important {
+  style:italic;
+  color:#006 ;
+}
+
 .nap {
   width: 300px ;
   height: 275px ;

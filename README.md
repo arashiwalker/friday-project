@@ -13,7 +13,8 @@ An “About Me” section.
 background (education, job experience, or why did you decide to take a class on programming, etc).
 my interests/hobbies/skills.
 a gh-pages branch so that my site can be viewed on GitHub Pages at
-https://github.com/arashiwalker/friday-project-/tree/gh-pages
+
+https://arashiwalker.github.io/friday-project-/
 
 ## Setup/Installation Requirements
 
